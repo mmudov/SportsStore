@@ -1584,5 +1584,521 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wlvne7otsc"},{"Name":"integrity","Value":"sha256-xAkVT3iUMflDxW2Fscil/e3PSXH4iq6ReEYo4yA9WIg="},{"Name":"label","Value":"_content/SportsStore/lib/bootstrap/scss/_variables.scss"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"68610"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022xAkVT3iUMflDxW2Fscil/e3PSXH4iq6ReEYo4yA9WIg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 15 Nov 2024 09:16:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/all.7ogrolnt6j.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\all.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7ogrolnt6j"},{"Name":"integrity","Value":"sha256-2TYMB\u002BnCbzXiWw/XvvfFTM/Gz9I81seVC7Tk4YkyrmA="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/css/all.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"139880"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222TYMB\u002BnCbzXiWw/XvvfFTM/Gz9I81seVC7Tk4YkyrmA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/all.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\all.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2TYMB\u002BnCbzXiWw/XvvfFTM/Gz9I81seVC7Tk4YkyrmA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"139880"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222TYMB\u002BnCbzXiWw/XvvfFTM/Gz9I81seVC7Tk4YkyrmA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/all.min.78w1drgie7.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\all.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"78w1drgie7"},{"Name":"integrity","Value":"sha256-Z1K5uhUaJXA7Ll0XrZ/0JhX4lAtZFpT6jkKrEDT0drU="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/css/all.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"101894"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Z1K5uhUaJXA7Ll0XrZ/0JhX4lAtZFpT6jkKrEDT0drU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/all.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\all.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Z1K5uhUaJXA7Ll0XrZ/0JhX4lAtZFpT6jkKrEDT0drU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"101894"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Z1K5uhUaJXA7Ll0XrZ/0JhX4lAtZFpT6jkKrEDT0drU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/brands.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\brands.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/jwef5QIKNJzDa0HFtYmvXrwIwd6Wtb36AsA8a87Mlg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"23682"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/jwef5QIKNJzDa0HFtYmvXrwIwd6Wtb36AsA8a87Mlg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/brands.ekuhsnbmwo.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\brands.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ekuhsnbmwo"},{"Name":"integrity","Value":"sha256-/jwef5QIKNJzDa0HFtYmvXrwIwd6Wtb36AsA8a87Mlg="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/css/brands.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23682"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/jwef5QIKNJzDa0HFtYmvXrwIwd6Wtb36AsA8a87Mlg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/brands.min.3s8lcxky5t.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\brands.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3s8lcxky5t"},{"Name":"integrity","Value":"sha256-TXCTfrlEOGerSO77rgj5Fvyzf9g0O4ne2lXoR8uS4II="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/css/brands.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18594"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022TXCTfrlEOGerSO77rgj5Fvyzf9g0O4ne2lXoR8uS4II=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/brands.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\brands.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TXCTfrlEOGerSO77rgj5Fvyzf9g0O4ne2lXoR8uS4II="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"18594"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022TXCTfrlEOGerSO77rgj5Fvyzf9g0O4ne2lXoR8uS4II=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/fontawesome.8vptmhxhea.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\fontawesome.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8vptmhxhea"},{"Name":"integrity","Value":"sha256-NDIn9yPLJLRpCZ2Wf9cR10bvhm0PN0/dLHXn2nvBdTg="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/css/fontawesome.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"113333"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NDIn9yPLJLRpCZ2Wf9cR10bvhm0PN0/dLHXn2nvBdTg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/fontawesome.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\fontawesome.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NDIn9yPLJLRpCZ2Wf9cR10bvhm0PN0/dLHXn2nvBdTg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"113333"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NDIn9yPLJLRpCZ2Wf9cR10bvhm0PN0/dLHXn2nvBdTg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/fontawesome.min.6nfghid51t.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\fontawesome.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6nfghid51t"},{"Name":"integrity","Value":"sha256-zgORubRsz5iTQajy0X9EdrJBq1vNm70B2ZW4YKdRy3s="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/css/fontawesome.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"80761"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022zgORubRsz5iTQajy0X9EdrJBq1vNm70B2ZW4YKdRy3s=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/fontawesome.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\fontawesome.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zgORubRsz5iTQajy0X9EdrJBq1vNm70B2ZW4YKdRy3s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"80761"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022zgORubRsz5iTQajy0X9EdrJBq1vNm70B2ZW4YKdRy3s=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/regular.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\regular.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-t5phu9ogZ7gx9CqnShUiiwdhirN7VNQO6ysUv5q8H04="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"633"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022t5phu9ogZ7gx9CqnShUiiwdhirN7VNQO6ysUv5q8H04=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/regular.j18wmplioe.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\regular.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j18wmplioe"},{"Name":"integrity","Value":"sha256-t5phu9ogZ7gx9CqnShUiiwdhirN7VNQO6ysUv5q8H04="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/css/regular.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"633"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022t5phu9ogZ7gx9CqnShUiiwdhirN7VNQO6ysUv5q8H04=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/regular.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\regular.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AKdJTilWP0HA1p1q/DnHgnJmR3uc56QTFroCEUE1NCs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"580"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022AKdJTilWP0HA1p1q/DnHgnJmR3uc56QTFroCEUE1NCs=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/regular.min.stxv07qy90.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\regular.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"stxv07qy90"},{"Name":"integrity","Value":"sha256-AKdJTilWP0HA1p1q/DnHgnJmR3uc56QTFroCEUE1NCs="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/css/regular.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"580"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022AKdJTilWP0HA1p1q/DnHgnJmR3uc56QTFroCEUE1NCs=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/solid.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\solid.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UrOlF3jtyMpeav99fs/AOn30O7WG/4APvlGeo\u002BXrAsA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"625"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022UrOlF3jtyMpeav99fs/AOn30O7WG/4APvlGeo\u002BXrAsA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/solid.min.bynyunti2j.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\solid.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bynyunti2j"},{"Name":"integrity","Value":"sha256-PWjOYKvQnR\u002BQNLq3ts8OC0/uUzdQ2NkfEulijXY8Xfo="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/css/solid.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"572"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022PWjOYKvQnR\u002BQNLq3ts8OC0/uUzdQ2NkfEulijXY8Xfo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/solid.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\solid.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PWjOYKvQnR\u002BQNLq3ts8OC0/uUzdQ2NkfEulijXY8Xfo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"572"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022PWjOYKvQnR\u002BQNLq3ts8OC0/uUzdQ2NkfEulijXY8Xfo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/solid.upntuatu58.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\solid.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"upntuatu58"},{"Name":"integrity","Value":"sha256-UrOlF3jtyMpeav99fs/AOn30O7WG/4APvlGeo\u002BXrAsA="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/css/solid.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"625"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022UrOlF3jtyMpeav99fs/AOn30O7WG/4APvlGeo\u002BXrAsA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/svg-with-js.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\svg-with-js.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BK4MfCrFuSUpTBszHKTcNyGAkqZ\u002BFRO0724wIn\u002BcFWE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"21416"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022\u002BK4MfCrFuSUpTBszHKTcNyGAkqZ\u002BFRO0724wIn\u002BcFWE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/svg-with-js.gu7hh3dwth.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\svg-with-js.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gu7hh3dwth"},{"Name":"integrity","Value":"sha256-\u002BK4MfCrFuSUpTBszHKTcNyGAkqZ\u002BFRO0724wIn\u002BcFWE="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/css/svg-with-js.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"21416"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022\u002BK4MfCrFuSUpTBszHKTcNyGAkqZ\u002BFRO0724wIn\u002BcFWE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/svg-with-js.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\svg-with-js.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BmRf/TpWkrGebpxG24nKIy25TXuzr7WmOOqtWPhfaNw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"16771"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022BmRf/TpWkrGebpxG24nKIy25TXuzr7WmOOqtWPhfaNw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/svg-with-js.min.evx6je8pbi.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\svg-with-js.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"evx6je8pbi"},{"Name":"integrity","Value":"sha256-BmRf/TpWkrGebpxG24nKIy25TXuzr7WmOOqtWPhfaNw="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/css/svg-with-js.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16771"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022BmRf/TpWkrGebpxG24nKIy25TXuzr7WmOOqtWPhfaNw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/v4-font-face.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-font-face.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2bI6/R/GrFwiHuxpfhxcA4DXOXX0TTsVDDHuL\u002B2WH6I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1831"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222bI6/R/GrFwiHuxpfhxcA4DXOXX0TTsVDDHuL\u002B2WH6I=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/v4-font-face.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-font-face.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3qx38sFUtiOKkZc7eAT97tB7BHy4UtkjNS8Kirug\u002BlA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1736"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223qx38sFUtiOKkZc7eAT97tB7BHy4UtkjNS8Kirug\u002BlA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/v4-font-face.min.upg6xalh95.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-font-face.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"upg6xalh95"},{"Name":"integrity","Value":"sha256-3qx38sFUtiOKkZc7eAT97tB7BHy4UtkjNS8Kirug\u002BlA="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/css/v4-font-face.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1736"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223qx38sFUtiOKkZc7eAT97tB7BHy4UtkjNS8Kirug\u002BlA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/v4-font-face.x6maksqojq.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-font-face.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x6maksqojq"},{"Name":"integrity","Value":"sha256-2bI6/R/GrFwiHuxpfhxcA4DXOXX0TTsVDDHuL\u002B2WH6I="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/css/v4-font-face.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1831"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222bI6/R/GrFwiHuxpfhxcA4DXOXX0TTsVDDHuL\u002B2WH6I=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/v4-shims.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-shims.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8Atw2pxFEC8KtJSl6mznY6P0wZKeg6OjSw2wIEPs2Jo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"41574"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228Atw2pxFEC8KtJSl6mznY6P0wZKeg6OjSw2wIEPs2Jo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/v4-shims.cx4sk8589g.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-shims.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cx4sk8589g"},{"Name":"integrity","Value":"sha256-8Atw2pxFEC8KtJSl6mznY6P0wZKeg6OjSw2wIEPs2Jo="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/css/v4-shims.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41574"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228Atw2pxFEC8KtJSl6mznY6P0wZKeg6OjSw2wIEPs2Jo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/v4-shims.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-shims.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CBrGmsHCYkijL0yBH22hDEe9MvZYhXdAiOjeZm9OkS8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"27593"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022CBrGmsHCYkijL0yBH22hDEe9MvZYhXdAiOjeZm9OkS8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/v4-shims.min.kpemy8zddm.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-shims.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kpemy8zddm"},{"Name":"integrity","Value":"sha256-CBrGmsHCYkijL0yBH22hDEe9MvZYhXdAiOjeZm9OkS8="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/css/v4-shims.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"27593"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022CBrGmsHCYkijL0yBH22hDEe9MvZYhXdAiOjeZm9OkS8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/v5-font-face.c2kgjcc3mj.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v5-font-face.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c2kgjcc3mj"},{"Name":"integrity","Value":"sha256-lOwDxKgbJ0QYUFSdlol17fs6GCc0R5cJQ/FGdsGxD3s="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/css/v5-font-face.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"871"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022lOwDxKgbJ0QYUFSdlol17fs6GCc0R5cJQ/FGdsGxD3s=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/v5-font-face.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v5-font-face.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lOwDxKgbJ0QYUFSdlol17fs6GCc0R5cJQ/FGdsGxD3s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"871"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022lOwDxKgbJ0QYUFSdlol17fs6GCc0R5cJQ/FGdsGxD3s=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/v5-font-face.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v5-font-face.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zGrY1du3JRHqYLHQdYES159Q\u002B372nQNFC/IpetFsksY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"794"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022zGrY1du3JRHqYLHQdYES159Q\u002B372nQNFC/IpetFsksY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/css/v5-font-face.min.cu3b9pchgm.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v5-font-face.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cu3b9pchgm"},{"Name":"integrity","Value":"sha256-zGrY1du3JRHqYLHQdYES159Q\u002B372nQNFC/IpetFsksY="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/css/v5-font-face.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"794"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022zGrY1du3JRHqYLHQdYES159Q\u002B372nQNFC/IpetFsksY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/all.5f9x6g07kh.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\all.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5f9x6g07kh"},{"Name":"integrity","Value":"sha256-D4z4PDvtCtrsLAo8NW\u002B766hHU92jsN98763ukjnJC1I="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/js/all.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1622765"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022D4z4PDvtCtrsLAo8NW\u002B766hHU92jsN98763ukjnJC1I=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/all.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\all.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-D4z4PDvtCtrsLAo8NW\u002B766hHU92jsN98763ukjnJC1I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1622765"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022D4z4PDvtCtrsLAo8NW\u002B766hHU92jsN98763ukjnJC1I=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/all.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\all.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PrAGWuLoTJghkCUeIWpjfhI03fBwYSoDqBtwshkNS44="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1524833"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022PrAGWuLoTJghkCUeIWpjfhI03fBwYSoDqBtwshkNS44=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/all.min.u0a25vpyah.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\all.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u0a25vpyah"},{"Name":"integrity","Value":"sha256-PrAGWuLoTJghkCUeIWpjfhI03fBwYSoDqBtwshkNS44="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/js/all.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1524833"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022PrAGWuLoTJghkCUeIWpjfhI03fBwYSoDqBtwshkNS44=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/brands.fvh12jruk5.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\brands.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fvh12jruk5"},{"Name":"integrity","Value":"sha256-RVEnS4R8ogS810nd0gT6HX02C63vo553RvBX1A1MAfg="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/js/brands.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"477871"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022RVEnS4R8ogS810nd0gT6HX02C63vo553RvBX1A1MAfg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/brands.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\brands.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RVEnS4R8ogS810nd0gT6HX02C63vo553RvBX1A1MAfg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"477871"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022RVEnS4R8ogS810nd0gT6HX02C63vo553RvBX1A1MAfg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/brands.min.8ot1rquqqo.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\brands.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8ot1rquqqo"},{"Name":"integrity","Value":"sha256-iLDVsoX14YWEJpF/qsjnljqsnESxJtS\u002Bkn9Oa8yW5yM="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/js/brands.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"467578"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022iLDVsoX14YWEJpF/qsjnljqsnESxJtS\u002Bkn9Oa8yW5yM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/brands.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\brands.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iLDVsoX14YWEJpF/qsjnljqsnESxJtS\u002Bkn9Oa8yW5yM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"467578"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022iLDVsoX14YWEJpF/qsjnljqsnESxJtS\u002Bkn9Oa8yW5yM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/conflict-detection.dm94k3n6y1.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\conflict-detection.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dm94k3n6y1"},{"Name":"integrity","Value":"sha256-S4ZWydQyGcjQn93gT7oKA8mA5QPtQQHKaTFeMxeZiJ4="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/js/conflict-detection.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"39338"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022S4ZWydQyGcjQn93gT7oKA8mA5QPtQQHKaTFeMxeZiJ4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/conflict-detection.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\conflict-detection.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-S4ZWydQyGcjQn93gT7oKA8mA5QPtQQHKaTFeMxeZiJ4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"39338"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022S4ZWydQyGcjQn93gT7oKA8mA5QPtQQHKaTFeMxeZiJ4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/conflict-detection.min.d1by2zck9w.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\conflict-detection.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"d1by2zck9w"},{"Name":"integrity","Value":"sha256-YdoKFEVz9Mtdedgq210\u002Btg2iqlnZANpw0kY5YTWRHSY="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/js/conflict-detection.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16189"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022YdoKFEVz9Mtdedgq210\u002Btg2iqlnZANpw0kY5YTWRHSY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/conflict-detection.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\conflict-detection.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YdoKFEVz9Mtdedgq210\u002Btg2iqlnZANpw0kY5YTWRHSY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"16189"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022YdoKFEVz9Mtdedgq210\u002Btg2iqlnZANpw0kY5YTWRHSY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/fontawesome.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\fontawesome.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tzKSU4f5\u002BTJgBUXy0\u002BxnpBkYnhaaGfFOz4sa7AczKUA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"117065"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022tzKSU4f5\u002BTJgBUXy0\u002BxnpBkYnhaaGfFOz4sa7AczKUA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/fontawesome.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\fontawesome.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CmI2IEcfp/ocwrmWKlpyn/Ms5CuLnZ2WWGa1nmooYvE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"56449"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022CmI2IEcfp/ocwrmWKlpyn/Ms5CuLnZ2WWGa1nmooYvE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/fontawesome.min.u3w6i6loyw.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\fontawesome.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u3w6i6loyw"},{"Name":"integrity","Value":"sha256-CmI2IEcfp/ocwrmWKlpyn/Ms5CuLnZ2WWGa1nmooYvE="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/js/fontawesome.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"56449"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022CmI2IEcfp/ocwrmWKlpyn/Ms5CuLnZ2WWGa1nmooYvE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/fontawesome.nwu5bzf7y2.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\fontawesome.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nwu5bzf7y2"},{"Name":"integrity","Value":"sha256-tzKSU4f5\u002BTJgBUXy0\u002BxnpBkYnhaaGfFOz4sa7AczKUA="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/js/fontawesome.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"117065"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022tzKSU4f5\u002BTJgBUXy0\u002BxnpBkYnhaaGfFOz4sa7AczKUA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/regular.bz8ukxtig5.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\regular.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bz8ukxtig5"},{"Name":"integrity","Value":"sha256-CW9xb4lgPqWSNpSWA8/S71f05iDBKQXqeFt6Q4sbQMQ="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/js/regular.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"152669"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022CW9xb4lgPqWSNpSWA8/S71f05iDBKQXqeFt6Q4sbQMQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/regular.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\regular.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CW9xb4lgPqWSNpSWA8/S71f05iDBKQXqeFt6Q4sbQMQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"152669"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022CW9xb4lgPqWSNpSWA8/S71f05iDBKQXqeFt6Q4sbQMQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/regular.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\regular.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9TTXdrTZaiBCOGHARjX95vTRpy2Iv2rJDuzbL2elazs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"145829"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229TTXdrTZaiBCOGHARjX95vTRpy2Iv2rJDuzbL2elazs=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/regular.min.pjbq0iv0am.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\regular.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pjbq0iv0am"},{"Name":"integrity","Value":"sha256-9TTXdrTZaiBCOGHARjX95vTRpy2Iv2rJDuzbL2elazs="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/js/regular.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"145829"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229TTXdrTZaiBCOGHARjX95vTRpy2Iv2rJDuzbL2elazs=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/solid.e7i95puv0c.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\solid.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e7i95puv0c"},{"Name":"integrity","Value":"sha256-ao0e37D7JWZnk8yRTpim1pn2nDZNCMz2QCFgqMj5HHw="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/js/solid.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"875817"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ao0e37D7JWZnk8yRTpim1pn2nDZNCMz2QCFgqMj5HHw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/solid.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\solid.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ao0e37D7JWZnk8yRTpim1pn2nDZNCMz2QCFgqMj5HHw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"875817"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ao0e37D7JWZnk8yRTpim1pn2nDZNCMz2QCFgqMj5HHw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/solid.min.7gc5ugk19c.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\solid.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7gc5ugk19c"},{"Name":"integrity","Value":"sha256-uZM8NuDqVu65eXhodjy/giDwnNOsLP2AsN7vebjBLKY="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/js/solid.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"855637"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022uZM8NuDqVu65eXhodjy/giDwnNOsLP2AsN7vebjBLKY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/solid.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\solid.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uZM8NuDqVu65eXhodjy/giDwnNOsLP2AsN7vebjBLKY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"855637"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022uZM8NuDqVu65eXhodjy/giDwnNOsLP2AsN7vebjBLKY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/v4-shims.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\v4-shims.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-59cE8SrfCqc2L6s06XvBb8ohJrcG69rQq3KH1Bn03Vk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"33609"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u002259cE8SrfCqc2L6s06XvBb8ohJrcG69rQq3KH1Bn03Vk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/v4-shims.min.99r0p7xc0i.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\v4-shims.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"99r0p7xc0i"},{"Name":"integrity","Value":"sha256-AzEQpnwVJyvXxhv1lTZML3ZxklWoKqO8/42B2QNjvuo="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/js/v4-shims.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"27347"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022AzEQpnwVJyvXxhv1lTZML3ZxklWoKqO8/42B2QNjvuo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/v4-shims.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\v4-shims.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AzEQpnwVJyvXxhv1lTZML3ZxklWoKqO8/42B2QNjvuo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"27347"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022AzEQpnwVJyvXxhv1lTZML3ZxklWoKqO8/42B2QNjvuo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/js/v4-shims.n8vbt6dyh7.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\v4-shims.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n8vbt6dyh7"},{"Name":"integrity","Value":"sha256-59cE8SrfCqc2L6s06XvBb8ohJrcG69rQq3KH1Bn03Vk="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/js/v4-shims.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"33609"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u002259cE8SrfCqc2L6s06XvBb8ohJrcG69rQq3KH1Bn03Vk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/sprites/brands.1hpq791jbk.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\sprites\brands.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1hpq791jbk"},{"Name":"integrity","Value":"sha256-iwEhwgD5DiLag91iDuBgEoLoFW9OCm30vK45RlWrtlI="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/sprites/brands.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"485942"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022iwEhwgD5DiLag91iDuBgEoLoFW9OCm30vK45RlWrtlI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/sprites/brands.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\sprites\brands.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iwEhwgD5DiLag91iDuBgEoLoFW9OCm30vK45RlWrtlI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"485942"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022iwEhwgD5DiLag91iDuBgEoLoFW9OCm30vK45RlWrtlI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/sprites/regular.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\sprites\regular.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-znEqPMqywvY\u002BkKEHpjQrL2QalYMzQpG9PRrGkw/lolM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"147370"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022znEqPMqywvY\u002BkKEHpjQrL2QalYMzQpG9PRrGkw/lolM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/sprites/regular.yvtqow4ybg.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\sprites\regular.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yvtqow4ybg"},{"Name":"integrity","Value":"sha256-znEqPMqywvY\u002BkKEHpjQrL2QalYMzQpG9PRrGkw/lolM="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/sprites/regular.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"147370"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022znEqPMqywvY\u002BkKEHpjQrL2QalYMzQpG9PRrGkw/lolM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/sprites/solid.8vkbe1o34r.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\sprites\solid.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8vkbe1o34r"},{"Name":"integrity","Value":"sha256-nA\u002BifTV03MTG0ny\u002BF3XrSaSLC\u002Ba47wI1DRg/FtmScog="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/sprites/solid.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"908519"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022nA\u002BifTV03MTG0ny\u002BF3XrSaSLC\u002Ba47wI1DRg/FtmScog=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/sprites/solid.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\sprites\solid.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nA\u002BifTV03MTG0ny\u002BF3XrSaSLC\u002Ba47wI1DRg/FtmScog="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"908519"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022nA\u002BifTV03MTG0ny\u002BF3XrSaSLC\u002Ba47wI1DRg/FtmScog=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/webfonts/fa-brands-400.1s0v0nouu9.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1s0v0nouu9"},{"Name":"integrity","Value":"sha256-sdHBsBLhp2IcyE/R5cHbq5IBL0DfdCPoeasvpJNSD\u002B4="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/webfonts/fa-brands-400.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"186124"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022sdHBsBLhp2IcyE/R5cHbq5IBL0DfdCPoeasvpJNSD\u002B4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/webfonts/fa-brands-400.e381ynj761.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e381ynj761"},{"Name":"integrity","Value":"sha256-xhKHwvqYY7X7WETGg6ForGUgyU2CK7Q9Xq41w6KoIWY="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/webfonts/fa-brands-400.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"107656"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022xhKHwvqYY7X7WETGg6ForGUgyU2CK7Q9Xq41w6KoIWY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/webfonts/fa-brands-400.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sdHBsBLhp2IcyE/R5cHbq5IBL0DfdCPoeasvpJNSD\u002B4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"186124"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022sdHBsBLhp2IcyE/R5cHbq5IBL0DfdCPoeasvpJNSD\u002B4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/webfonts/fa-brands-400.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xhKHwvqYY7X7WETGg6ForGUgyU2CK7Q9Xq41w6KoIWY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"107656"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022xhKHwvqYY7X7WETGg6ForGUgyU2CK7Q9Xq41w6KoIWY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/webfonts/fa-regular-400.dseik542g2.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dseik542g2"},{"Name":"integrity","Value":"sha256-XaMTsEZ/fBsY2YFnKyNGGt0x461BmIwwEBvaq7B05EY="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/webfonts/fa-regular-400.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"25236"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022XaMTsEZ/fBsY2YFnKyNGGt0x461BmIwwEBvaq7B05EY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/webfonts/fa-regular-400.l1j7m7i2dd.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l1j7m7i2dd"},{"Name":"integrity","Value":"sha256-17Gf4gEQGwirE0T/1HLVnOZSrTw/tfGUw\u002BNaopCOZ0o="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/webfonts/fa-regular-400.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"62320"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u002217Gf4gEQGwirE0T/1HLVnOZSrTw/tfGUw\u002BNaopCOZ0o=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/webfonts/fa-regular-400.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-17Gf4gEQGwirE0T/1HLVnOZSrTw/tfGUw\u002BNaopCOZ0o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"62320"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u002217Gf4gEQGwirE0T/1HLVnOZSrTw/tfGUw\u002BNaopCOZ0o=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/webfonts/fa-regular-400.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XaMTsEZ/fBsY2YFnKyNGGt0x461BmIwwEBvaq7B05EY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"25236"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022XaMTsEZ/fBsY2YFnKyNGGt0x461BmIwwEBvaq7B05EY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/webfonts/fa-solid-900.5zoo54v3u1.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5zoo54v3u1"},{"Name":"integrity","Value":"sha256-jwZUD9d/Hv/h4tqOoQzsSjgt2pzG7wXYFuHW3kRAcvI="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/webfonts/fa-solid-900.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"150516"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022jwZUD9d/Hv/h4tqOoQzsSjgt2pzG7wXYFuHW3kRAcvI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/webfonts/fa-solid-900.8doj3dhnnx.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8doj3dhnnx"},{"Name":"integrity","Value":"sha256-5Pan6dGnwLSWjZy51CLo2c3KIp9/866sf5bkuqJcdoA="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/webfonts/fa-solid-900.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"397420"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u00225Pan6dGnwLSWjZy51CLo2c3KIp9/866sf5bkuqJcdoA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/webfonts/fa-solid-900.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5Pan6dGnwLSWjZy51CLo2c3KIp9/866sf5bkuqJcdoA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"397420"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u00225Pan6dGnwLSWjZy51CLo2c3KIp9/866sf5bkuqJcdoA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/webfonts/fa-solid-900.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jwZUD9d/Hv/h4tqOoQzsSjgt2pzG7wXYFuHW3kRAcvI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"150516"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022jwZUD9d/Hv/h4tqOoQzsSjgt2pzG7wXYFuHW3kRAcvI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/webfonts/fa-v4compatibility.071g6asx72.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-v4compatibility.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"071g6asx72"},{"Name":"integrity","Value":"sha256-9GcVydMAR/jepOsl7YafeR6wacaw9hAjgsMqVq7q37s="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/webfonts/fa-v4compatibility.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4568"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u00229GcVydMAR/jepOsl7YafeR6wacaw9hAjgsMqVq7q37s=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/webfonts/fa-v4compatibility.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-v4compatibility.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Lds7QRSpy1ZeSbCvIcw6yIzQQ760m\u002BMouPV6Y0mJ4Kw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10140"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022Lds7QRSpy1ZeSbCvIcw6yIzQQ760m\u002BMouPV6Y0mJ4Kw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/webfonts/fa-v4compatibility.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-v4compatibility.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9GcVydMAR/jepOsl7YafeR6wacaw9hAjgsMqVq7q37s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4568"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u00229GcVydMAR/jepOsl7YafeR6wacaw9hAjgsMqVq7q37s=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportsStore/lib/font-awesome/webfonts/fa-v4compatibility.xvfn3ulft8.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-v4compatibility.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xvfn3ulft8"},{"Name":"integrity","Value":"sha256-Lds7QRSpy1ZeSbCvIcw6yIzQQ760m\u002BMouPV6Y0mJ4Kw="},{"Name":"label","Value":"_content/SportsStore/lib/font-awesome/webfonts/fa-v4compatibility.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10140"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022Lds7QRSpy1ZeSbCvIcw6yIzQQ760m\u002BMouPV6Y0mJ4Kw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 Nov 2024 06:58:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>
