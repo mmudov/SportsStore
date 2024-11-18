@@ -234,4 +234,5 @@ D:\dev\SportsStore\SportsStore\obj\Debug\net9.0\compressed\2ynk9qc9iw-99r0p7xc0i
 D:\dev\SportsStore\SportsStore\obj\Debug\net9.0\compressed\uoh8lbngh4-1hpq791jbk.gz
 D:\dev\SportsStore\SportsStore\obj\Debug\net9.0\compressed\dj7z93wpuv-yvtqow4ybg.gz
 D:\dev\SportsStore\SportsStore\obj\Debug\net9.0\compressed\wu70bmhx4s-8vkbe1o34r.gz
+D:\dev\SportsStore\SportsStore\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\dev\SportsStore\SportsStore\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

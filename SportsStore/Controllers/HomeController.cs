@@ -36,5 +36,15 @@ namespace SportsStore.Controllers
                 },
                 CurrentCategory = category
             });
+
+        public IActionResult Admin()
+        {
+            return Redirect("/Admin");
+        }
+
+        public IActionResult BackToHome()
+        {
+            return Redirect("/");
+        }
     }
 }
