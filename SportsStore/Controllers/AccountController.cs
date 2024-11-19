@@ -9,6 +9,7 @@ namespace SportsStore.Controllers
     {
         private UserManager<IdentityUser> userManager;
         private SignInManager<IdentityUser> signInManager;
+        
         public AccountController(UserManager<IdentityUser> userMgr, SignInManager<IdentityUser> signInMgr)
         {
             userManager = userMgr;
@@ -36,6 +37,7 @@ namespace SportsStore.Controllers
                 if (user != null)
                 {
                     await signInManager.SignOutAsync();
+
                     if ((await signInManager.PasswordSignInAsync(user, loginModel.Password, false, false)).Succeeded)
                     {
                         return Redirect(loginModel?.ReturnUrl ?? "/Admin");
@@ -52,6 +54,7 @@ namespace SportsStore.Controllers
         public async Task<RedirectResult> Logout(string returnUrl = "/")
         {
             await signInManager.SignOutAsync();
+
             return Redirect(returnUrl);
         }
     }

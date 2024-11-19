@@ -1,4 +1,5 @@
 ﻿@page "/admin/orders"
+
 @inherits OwningComponentBase<IOrderRepository>
 
 <OrderTable TableTitle="Unshipped Orders" Orders="UnshippedOrders" ButtonLabel="Ship" OrderSelected="ShipOrder" />

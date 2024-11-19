@@ -18,8 +18,7 @@ namespace SportsStore.Controllers
         //public IActionResult Index() => View(repository.Products);
 
         //Adding pagination
-        public ViewResult Index(string? category, int productPage = 1)
-            => View(new ProductsListViewModel
+        public ViewResult Index(string? category, int productPage = 1) => View(new ProductsListViewModel
             {
                 Products = repository.Products
                 .Where(p => category == null || p.Category == category)

@@ -6,9 +6,7 @@ namespace SportsStore.Models
     {
         public static void EnsurePopulated(IApplicationBuilder app)
         {
-            StoreDbContext context = app.ApplicationServices
-            .CreateScope().ServiceProvider
-            .GetRequiredService<StoreDbContext>();
+            StoreDbContext context = app.ApplicationServices.CreateScope().ServiceProvider.GetRequiredService<StoreDbContext>();
 
             if (context.Database.GetPendingMigrations().Any())
             {
@@ -22,10 +20,8 @@ namespace SportsStore.Models
                 new Product
                 {
                     Name = "Kayak",
-                    Description =
-                "A boat for one person",
-               
-                Category = "Watersports",
+                    Description = "A boat for one person",
+                    Category = "Watersports",
                     Price = 275
                 },
                 
@@ -48,8 +44,7 @@ namespace SportsStore.Models
                 new Product
                 {
                     Name = "Corner Flags",
-                    Description =
-                "Give your playing field a professional touch",
+                    Description = "Give your playing field a professional touch",
                     Category = "Soccer",
                     Price = 34.95m
                 },
@@ -73,8 +68,7 @@ namespace SportsStore.Models
                 new Product
                 {
                     Name = "Unsteady Chair",
-                    Description =
-                "Secretly give your opponent a disadvantage",
+                    Description = "Secretly give your opponent a disadvantage",
                     Category = "Chess",
                     Price = 29.95m
                 },
